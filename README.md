@@ -47,6 +47,6 @@ LINE DevelopesのWebhook URLの接続確認でエラーが出る件について 
 Qiita![image](https://github.com/shohei0990/line_fastapi/assets/88127457/90dce221-4f4b-4b9a-9f44-b80269f53e63)<br>
 
 
-
+今後も更新予定
 -------------------------
 -------------------------
