@@ -1,0 +1,13 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: 20230625_LINEbot
+    engine: python3.9
+    src : . 
+    presets:
+      env: 
+        - name: CHANNEL_SECRET 
+        - name: CHANNEL_ACCESS_TOKEN
+    primary: true
+    public: true
+
