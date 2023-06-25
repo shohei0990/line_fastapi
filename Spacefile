@@ -1,0 +1,12 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: 20230625LINE3
+    src: .
+    engine: python3.9
+    public_routes:
+      - "/*"
+    presets:
+      env:
+        - name: CHANNEL_SECRET
+        - name: CHANNEL_ACCESS_TOKEN
